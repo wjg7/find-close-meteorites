@@ -5,7 +5,16 @@ A demo project that users Python and NASA data to find meteoer landing sites
 
 this project requires Python 3 and the requests package.
 
-`python find_meteors.py`
+## First, install Pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
+
+
+
+
 
 
 
